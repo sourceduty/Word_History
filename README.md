@@ -21,7 +21,7 @@ This custom GPT is similar to Google Books Ngram Viewer in that both tools analy
 
 #
 
-![output](https://github.com/user-attachments/assets/c7748599-de93-4e38-a8ed-00149015c7b5)
+![output](https://github.com/user-attachments/assets/20f4790f-2a04-4634-a53b-b0f644270f1b)
 
 #
 ### Related Links
