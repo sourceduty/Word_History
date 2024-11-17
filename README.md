@@ -20,7 +20,8 @@ The primary distinction from web-based tools or Google Ngram Viewer lies in its 
 This custom GPT is similar to Google Books Ngram Viewer in that both tools analyze the frequency of words or phrases over time using large corpora of digitized texts. However, this GPT goes further by offering deeper customization, richer comparative analysis, and a more interactive experience tailored to specific research needs. While Google Ngrams primarily focuses on raw frequency data from the Google Books corpus, this GPT allows users to refine analyses by specifying time ranges, linguistic regions, or genres of texts and provides detailed explanations, visualizations, and contextual insights. Additionally, it facilitates nuanced comparisons of multiple terms, uncovering patterns and trends that reveal the cultural, societal, or historical dynamics influencing language.
 
 #
-
+![output](https://github.com/user-attachments/assets/064acb79-ec55-4fd8-8a94-86725f5dc965)
+#
 ![output](https://github.com/user-attachments/assets/20f4790f-2a04-4634-a53b-b0f644270f1b)
 
 #
