@@ -28,7 +28,7 @@ AI models revolutionize the way we define and understand language by offering in
 
 This capability is particularly impactful in areas like slang, technical jargon, or cultural idioms, where meaning is fluid and dependent on context. AI models analyze language in real-time, making connections across different uses and environments to suggest plausible meanings. Unlike static books or papers, which require years of editing and dissemination, AI can offer immediate and personalized responses to linguistic inquiries. This adaptive capacity not only democratizes access to language insights but also fosters greater inclusivity, enabling the interpretation of terms from marginalized or emerging linguistic communities that historically might have gone unnoticed or misrepresented.
 
-Alex: "*AI models define words or word strings which couldn't be defined in history using papers and books.*"
+> Alex: "*AI models define words or word strings which couldn't be defined in history using papers and books.*"
 
 #
 ![output](https://github.com/user-attachments/assets/064acb79-ec55-4fd8-8a94-86725f5dc965)
